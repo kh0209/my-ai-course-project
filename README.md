@@ -3,7 +3,7 @@ Building AI course project
 
 # Project Title
 
-Intelligent Contract Bridge System - Final project for the Building AI course
+Intelligent Contract Bridge Playing System - Final project for the Building AI course
 
 ## Summary
 
