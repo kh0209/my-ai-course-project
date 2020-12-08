@@ -7,7 +7,7 @@ Final project for the Building AI course - Intelligent Contract Bridge System
 
 ## Summary
 
-In modern online contract bridge (card game) more or less intelligent systems (robots) are available which play the oppenents and/or partners roles. This (course-) project aims at the develpment of an intelligent "playing machine" based on AI methods.
+This (course-) project aims at the develpment of an intelligent "playing machine" based on AI methodes for modern online contract bridge (card game) applications.
 
 ## Background
 
