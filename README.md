@@ -1,9 +1,6 @@
-# my-ai-course-project
-Building AI course project 
+# Intelligent Bridge Playing Machine - Building AI course project
 
-# Project Title
-
-Intelligent Contract Bridge Playing System - Final project for the Building AI course
+An Intelligent Contract Bridge Playing System (robot) based on AI.
 
 ## Summary
 
@@ -41,4 +38,4 @@ In a final stage the system could compete with the best (other) systems.
 
 ## Acknowledgments
 
-Nothing special
+Nothing special acknowledgements.
