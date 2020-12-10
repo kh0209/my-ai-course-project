@@ -1,4 +1,4 @@
-# Intelligent Bridge Playing Machine - Building AI course project
+# Intelligent Bridge Playing System - Building AI course project
 
 An Intelligent Contract Bridge Playing System (robot) based on AI.
 
@@ -8,22 +8,22 @@ This (course-) project aims at the develpment of an intelligent "playing machine
 
 ## Background
 
-The idea is to simulate an intelligent (world class) bridge player in the two roles of declarer and defender based on deep learning methods. 
-Existing systems are mainly based on the well described strategies which follow the flow of decisions of an experienced players.
-The solution searched for in this project will be based on (available) analyses of thousands of training set using deep learnin AI methods.
+The idea is to simulate an intelligent (world class) bridge player in the two roles of (first step) declarer and (second, more complicated step) defender based on deep learning methods. 
+Due to the complexity of the Bridge game with about 5.36 * 10 power 28 different card combinations it is not feasible to check all solutions with brute force approaches. 
+Existing systems (1,2,3) are mainly based on the well described strategies which in principle follow the flow of decisions made of experienced players. At least on system (2) states that its "playing engine" uses not specified AI-methods. The solution searched for in this project will be based on (available) analyses of thousands of training set using deep learnin AI methods.
 
 The solution has at this stage a mainly academic aspect. 
 
 ## How is it used?
 
-In the early stage of the project the system will be a prooh of concept. Later the system could assist beginners and intermediate bridge player in understanding the best solution of contract bridge.
+In the early stage of the project the system will be a proof of concept. Later the system could assist beginners and intermediate bridge players in understanding the best solution of contract bridge.
 
-Later steps can be an integration in new developed or existing online bridge systems e.g. BBO, Fundbridge, Sharkbridge. Some of the systems declare to be based of (not specified) AI methods. 
+Later steps can be an integration in new developed or existing online bridge systems or in a new system. 
 
 The final stage would be a competition with the best playing systems (for contract bridge): conventionally or AI baesd.
 
 ## Data sources and AI methods
-In principle, data is available in the databases of several bridge societies and online systems. At this stage it is not clear if the access to these trainingsdata is granted. But for academic use it should be possible.
+In principle, data is available in the databases of several bridge societies (4) (5) and online systems. At this stage it is not clear if the access to these trainingsdata is granted. But for academic use it should be possible.
 
 ## Challenges
 
@@ -38,4 +38,8 @@ In a final stage the system could compete with the best (other) systems.
 
 ## Acknowledgments
 
-Nothing special acknowledgements.
+(1) Bridgebase Online BBO: https://www.bridgebase.com
+(2) Funbridge: https://www.funbridge.com
+(3) Sharkbridge: https://www.emabridge.com
+(4) World Bridge Federation: http://www.worldbridge.org
+(5) European Bridge league: http://www.eurobridge.org
