@@ -1,6 +1,6 @@
 # Intelligent Bridge Playing System - Building AI course project
 
-An Intelligent Contract Bridge Playing System (robot) based on AI.
+An Intelligent Contract Bridge Playing System based on AI.
 
 ## Summary
 
@@ -18,7 +18,7 @@ The solution - at this stage - has a mainly academic aspect.
 
 In the early stage of the project the system will be a proof of concept. Later the system could assist beginners and intermediate bridge players in understanding the best solution of contract bridge.
 
-Later steps can be an integration in new developed or existing online bridge systems or in a new system. 
+Later steps can be the integration in new developed or existing online bridge systems. 
 
 The final stage would be a competition with the best playing systems (for contract bridge): conventionally or AI based.
 
@@ -39,7 +39,7 @@ In a final stage the system could compete with the best (other) systems.
 
 ## Acknowledgments
 
-(1) Manley, Brent, Editor; Horton, Mark, Co-Editor; Greenberg-Yarbro, Tracey, Co-Editor; Rigal, Barry, Co-Editor (2011). The Official Encyclopedia of Bridge (7th ed.). American Contract Bridge League. ISBN 978-0-939460-99-1
+(1) Manley, Brent, Editor; Horton, Mark, Co-Editor (2011). The Official Encyclopedia of Bridge (7th ed.). American Contract Bridge League. ISBN 978-0-939460-99-1
 
 (2) Bridgebase Online BBO: https://www.bridgebase.com
 
