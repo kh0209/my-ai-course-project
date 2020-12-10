@@ -23,7 +23,8 @@ Later steps can be an integration in new developed or existing online bridge sys
 The final stage would be a competition with the best playing systems (for contract bridge): conventionally or AI based.
 
 ## Data sources and AI methods
-In principle, data is available in the databases of several bridge societies (5) (6) and online systems. At this stage it is not clear if the access to these training data is granted. But for academic use it should be possible.
+In principle, data is available in the databases of several bridge societies (5) (6) (7) and the online systems (3), (4), (5). 
+At this stage it is not clear if the access to these training data is granted. But for academic use it should be possible.
 
 ## Challenges
  
@@ -49,3 +50,5 @@ In a final stage the system could compete with the best (other) systems.
 (5) World Bridge Federation: http://www.worldbridge.org
 
 (6) European Bridge league: http://www.eurobridge.org
+
+(7) American Contract Bridge League: https://www.acbl.org
