@@ -9,10 +9,10 @@ This (course-) project aims at the develpment of an intelligent "playing machine
 ## Background
 
 The idea is to simulate an intelligent (world class) bridge player in the two roles of (first step) declarer and (second, more complicated step) defender based on deep learning methods. 
-Due to the complexity of the Bridge game with about 5.36 * 10 power 28 different card combinations it is not feasible to check all solutions with brute force approaches. 
-Existing systems (1), (2), (3) are mainly based on well described strategies which in principle follow the flow of decisions made of experienced players. At least on system (2) states that its "playing engine" uses (not specified) AI-methods. The solution searched for in this project will be based on (available) analyses of thousands of training sets using deep learning AI methods (or comparable AI-methods).
-
-The solution has at this stage a mainly academic aspect. 
+Due to the complexity of the Bridge game with about 5.36 * 10 power 28 different card combinations (1) it is not feasible to check all solutions with brute force approaches. 
+Existing systems (2), (3), (4) are mainly based on well described strategies which in principle follow the flow of decisions made of experienced players. At least on system (3) states that its "playing engine" uses (not specified) AI-methods. 
+The solution searched for in this project will be based on (available) analyses of thousands of training sets using deep learning AI methods (or comparable AI-methods).
+The solution - at this stage - has a mainly academic aspect. 
 
 ## How is it used?
 
@@ -20,15 +20,15 @@ In the early stage of the project the system will be a proof of concept. Later t
 
 Later steps can be an integration in new developed or existing online bridge systems or in a new system. 
 
-The final stage would be a competition with the best playing systems (for contract bridge): conventionally or AI baesd.
+The final stage would be a competition with the best playing systems (for contract bridge): conventionally or AI based.
 
 ## Data sources and AI methods
-In principle, data is available in the databases of several bridge societies (4) (5) and online systems. At this stage it is not clear if the access to these trainingsdata is granted. But for academic use it should be possible.
+In principle, data is available in the databases of several bridge societies (5) (6) and online systems. At this stage it is not clear if the access to these training data is granted. But for academic use it should be possible.
 
 ## Challenges
-
-No ethicals considerations are expected to be critical. 
+ 
 Methods of deep learning based on Neural Networks might be the starting point. More details are (at this stage) not considered. 
+No ethicals considerations are expected to be critical.
 
 ## What next?
 
@@ -38,12 +38,14 @@ In a final stage the system could compete with the best (other) systems.
 
 ## Acknowledgments
 
-(1) Bridgebase Online BBO: https://www.bridgebase.com
+(1) Manley, Brent, Editor; Horton, Mark, Co-Editor; Greenberg-Yarbro, Tracey, Co-Editor; Rigal, Barry, Co-Editor (2011). The Official Encyclopedia of Bridge (7th ed.). American Contract Bridge League. ISBN 978-0-939460-99-1
 
-(2) Funbridge: https://www.funbridge.com
+(2) Bridgebase Online BBO: https://www.bridgebase.com
 
-(3) Sharkbridge: https://www.emabridge.com
+(3) Funbridge: https://www.funbridge.com
 
-(4) World Bridge Federation: http://www.worldbridge.org
+(4) Sharkbridge: https://www.emabridge.com
 
-(5) European Bridge league: http://www.eurobridge.org
+(5) World Bridge Federation: http://www.worldbridge.org
+
+(6) European Bridge league: http://www.eurobridge.org
