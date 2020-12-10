@@ -10,7 +10,7 @@ This (course-) project aims at the develpment of an intelligent "playing machine
 
 The idea is to simulate an intelligent (world class) bridge player in the two roles of (first step) declarer and (second, more complicated step) defender based on deep learning methods. 
 Due to the complexity of the Bridge game with about 5.36 * 10 power 28 different card combinations it is not feasible to check all solutions with brute force approaches. 
-Existing systems (1), (2), (3) are mainly based on well described strategies which in principle follow the flow of decisions made of experienced players. At least on system (2) states that its "playing engine" uses (not specified) AI-methods. The solution searched for in this project will be based on (available) analyses of thousands of training set using deep learnin AI methods.
+Existing systems (1), (2), (3) are mainly based on well described strategies which in principle follow the flow of decisions made of experienced players. At least on system (2) states that its "playing engine" uses (not specified) AI-methods. The solution searched for in this project will be based on (available) analyses of thousands of training sets using deep learning AI methods (or comparable AI-methods).
 
 The solution has at this stage a mainly academic aspect. 
 
@@ -45,4 +45,5 @@ In a final stage the system could compete with the best (other) systems.
 (3) Sharkbridge: https://www.emabridge.com
 
 (4) World Bridge Federation: http://www.worldbridge.org
+
 (5) European Bridge league: http://www.eurobridge.org
